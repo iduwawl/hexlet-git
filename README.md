@@ -1,2 +1,1 @@
-# hexlet-git
-Test repository to learn git
+echo no code no pain
