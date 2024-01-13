@@ -1,1 +1,2 @@
-Hello, Hexlet! How are you?
+# hexlet-git
+Test repository to learn git
